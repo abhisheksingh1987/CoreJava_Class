@@ -9,6 +9,9 @@ public class Test {
 		
 		String rev = rev+charAt();
 		System.out.println(rev);
+		
+		I am abhishek
+		I belong to Seondha
 		 
 	 }
 }
