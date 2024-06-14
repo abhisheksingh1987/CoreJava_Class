@@ -10,7 +10,7 @@ public class Main {
 
         // Add employees to the HashMap
         employees.put(1, new Employee("John Doe", 35000));
-        employees.put(2, new Employee("Jane Smith", 25000));
+        employees.put(2, new Employee("Jane Smith", 30000));
         employees.put(3, new Employee("Emily Johnson", 40000));
         employees.put(4, new Employee("Michael Brown", 30000));
         employees.put(5, new Employee("Chris Davis", 50000));
