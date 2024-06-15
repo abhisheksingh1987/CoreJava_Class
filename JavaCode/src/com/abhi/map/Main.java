@@ -21,6 +21,7 @@ public class Main {
             Employee emp = entry.getValue();
             if (emp.getSalary() > 30000) {
                 System.out.println(emp);
+                
             }
         }
     }
